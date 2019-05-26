@@ -1,0 +1,3 @@
+C:/Users/batma/Desktop/transporteUrbano/cmake-build-debug/CMakeFiles/transporteUrbano.dir
+C:/Users/batma/Desktop/transporteUrbano/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/batma/Desktop/transporteUrbano/cmake-build-debug/CMakeFiles/rebuild_cache.dir
